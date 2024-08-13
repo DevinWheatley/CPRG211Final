@@ -5,8 +5,120 @@
         xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
         xmlns:local="clr-namespace:CPRG211Final"
         mc:Ignorable="d"
-        Title="ManageStaff" Height="450" Width="800">
+        Title="ManageStaff" Height="1000" Width="1200">
     <Grid>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="330" />
+
+            <ColumnDefinition Width="*" />
+            <ColumnDefinition Width="*" />
+            <ColumnDefinition Width="*" />
+
+            <ColumnDefinition Width="40" />
+        </Grid.ColumnDefinitions>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="40" />
+            <RowDefinition Height="*" />
+            <RowDefinition Height="*" />
+            <RowDefinition Height="*" />
+            <RowDefinition Height="*" />
+            <RowDefinition Height="*" />
+            <RowDefinition Height="*" />
+            <RowDefinition Height="*" />
+            <RowDefinition Height="*" />
+            <RowDefinition Height="*" />
+            <RowDefinition Height="*" />
+            <RowDefinition Height="40" />
+        </Grid.RowDefinitions>
+
+        <!-- TaskBar -->
+        <local:TaskbarControl x:Name="taskbarControl" Grid.Column="0" Grid.Row="0" Grid.RowSpan="20" Width="330" />
+
+        <!-- Search -->
+        <StackPanel Orientation="Vertical" Grid.Row="1" Grid.Column="2" Margin="10,10,10,0">
+            <TextBlock Text="Search by Staff ID" FontSize="25"/>
+            <TextBox x:Name="inputSearch" FontSize="25" Margin="10,0"/>
+        </StackPanel>
+        <Button Content="Search" FontSize="25" Grid.Row="1" Grid.Column="3" Margin="25" Click="SearchStaff"/>
+
         
+        
+        
+        <!-- Add Staff -->
+        <TextBlock x:Name="AddMessage" Grid.Row="1" Grid.Column="1" Text="" FontSize="20" Margin="10" VerticalAlignment="Bottom" HorizontalAlignment="Center"/>
+
+        <StackPanel Orientation="Vertical" Grid.Row="2" Grid.Column="1" Margin="10, 0">
+            <TextBlock Text="Staff ID" FontSize="25"/>
+            <TextBox x:Name="inputStaffID" FontSize="25" />
+        </StackPanel>
+        <StackPanel Orientation="Vertical" Grid.Row="3" Grid.Column="1" Margin="10, 0">
+            <TextBlock Text="FirstName" FontSize="25"/>
+            <TextBox x:Name="inputFirstName" FontSize="25" />
+        </StackPanel>
+        <StackPanel Orientation="Vertical" Grid.Row="4" Grid.Column="1" Margin="10, 0">
+            <TextBlock Text="LastName" FontSize="25"/>
+            <TextBox x:Name="inputLastName" FontSize="25" />
+        </StackPanel>
+        <StackPanel Orientation="Vertical" Grid.Row="5" Grid.Column="1" Margin="10, 0">
+            <TextBlock Text="Role" FontSize="25"/>
+            <TextBox x:Name="inputRole" FontSize="25" />
+        </StackPanel>
+        <StackPanel Orientation="Vertical" Grid.Row="6" Grid.Column="1" Margin="10, 0">
+            <TextBlock Text="Email" FontSize="25"/>
+            <TextBox x:Name="inputEmail" FontSize="25" />
+        </StackPanel>
+        <StackPanel Orientation="Vertical" Grid.Row="7" Grid.Column="1" Margin="10, 0">
+            <TextBlock Text="Phone Number" FontSize="25"/>
+            <TextBox x:Name="inputPhone" FontSize="25" />
+        </StackPanel>
+        <StackPanel Orientation="Vertical" Grid.Row="8" Grid.Column="1" Margin="10, 0">
+            <TextBlock Text="Address" FontSize="25"/>
+            <TextBox x:Name="inputAddress" FontSize="25" />
+        </StackPanel>
+        <StackPanel Orientation="Vertical" Grid.Row="9" Grid.Column="1" >
+            <TextBlock Text="Hire Date (yyyy-mm-dd)" FontSize="25" Margin="5,0,0,0"/>
+            <TextBox x:Name="inputHireDate" FontSize="25" Margin="10, 0"/>
+        </StackPanel>
+
+        <Button Content="Add" FontSize="25" Grid.Row="10" Grid.Column="1" Margin="25" Click="AddStaff"/>
+
+
+
+        <!-- Remove Book -->
+        <StackPanel Orientation="Vertical" Grid.Row="2" Grid.Column="3" Margin="10, 0">
+            <TextBlock Text="" FontSize="25"/>
+            <TextBlock x:Name="TextBlockID" Text="" FontSize="25"/>
+        </StackPanel>
+        <StackPanel Orientation="Vertical" Grid.Row="3" Grid.Column="3" Margin="10, 0">
+            <TextBlock Text="" FontSize="25"/>
+            <TextBlock x:Name="TextBlockFirstName" Text="" FontSize="25"/>
+        </StackPanel>
+        <StackPanel Orientation="Vertical" Grid.Row="4" Grid.Column="3" Margin="10, 0">
+            <TextBlock Text="" FontSize="25"/>
+            <TextBlock x:Name="TextBlockLastName" Text="" FontSize="25"/>
+        </StackPanel>
+        <StackPanel Orientation="Vertical" Grid.Row="5" Grid.Column="3" Margin="10, 0">
+            <TextBlock Text="" FontSize="25"/>
+            <TextBlock x:Name="TextBlockRole" Text="" FontSize="25"/>
+        </StackPanel>
+        <StackPanel Orientation="Vertical" Grid.Row="6" Grid.Column="3" Margin="10, 0">
+            <TextBlock Text="" FontSize="25"/>
+            <TextBlock x:Name="TextBlockEmail" Text="" FontSize="25"/>
+        </StackPanel>
+        <StackPanel Orientation="Vertical" Grid.Row="7" Grid.Column="3" Margin="10, 0">
+            <TextBlock Text="" FontSize="25"/>
+            <TextBlock x:Name="TextBlockPhone" Text="" FontSize="25"/>
+        </StackPanel>
+        <StackPanel Orientation="Vertical" Grid.Row="8" Grid.Column="3" Margin="10, 0">
+            <TextBlock Text="" FontSize="25"/>
+            <TextBlock x:Name="TextBlockAddress" Text="" FontSize="25"/>
+        </StackPanel>
+        <StackPanel Orientation="Vertical" Grid.Row="9" Grid.Column="3" Margin="10, 0">
+            <TextBlock Text="" FontSize="25"/>
+            <TextBlock x:Name="TextBlockHireDate" Text="" FontSize="25"/>
+        </StackPanel>
+
+        <Button Content="Remove" FontSize="25" Grid.Row="10" Grid.Column="3" Margin="25" Click="RemoveStaff"/>
+
     </Grid>
 </Window>

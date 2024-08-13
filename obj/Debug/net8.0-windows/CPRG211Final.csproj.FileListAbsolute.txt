@@ -29,3 +29,4 @@ C:\Users\devin\OneDrive\Desktop\School\Semester Two\CPRG 211 - ObjOrnt 2.0\Final
 C:\Users\devin\OneDrive\Desktop\School\Semester Two\CPRG 211 - ObjOrnt 2.0\Final Project\Project\CPRG211Final\obj\Debug\net8.0-windows\ManageCheckInOut.baml
 C:\Users\devin\OneDrive\Desktop\School\Semester Two\CPRG 211 - ObjOrnt 2.0\Final Project\Project\CPRG211Final\obj\Debug\net8.0-windows\ManageMembers.baml
 C:\Users\devin\OneDrive\Desktop\School\Semester Two\CPRG 211 - ObjOrnt 2.0\Final Project\Project\CPRG211Final\obj\Debug\net8.0-windows\ManageStaff.baml
+C:\Users\devin\OneDrive\Desktop\School\Semester Two\CPRG 211 - ObjOrnt 2.0\Final Project\Project\CPRG211Final\obj\Debug\net8.0-windows\CPRG211Final.sourcelink.json

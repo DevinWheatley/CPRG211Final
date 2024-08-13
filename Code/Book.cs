@@ -26,8 +26,6 @@ namespace CPRG211Final
         public string Genre { get { return _genre; } set { _genre = value; } }
         public bool Availability { get { return _availability; } set { _availability = value; } }
 
-        // FilePath for books.bin file
-        private readonly string filePath = Path.Combine(AppDomain.CurrentDomain.BaseDirectory, "books.bin");
 
         // Constructor
         public Book() { }
@@ -54,7 +52,7 @@ namespace CPRG211Final
             {
                 books.Add(addBook);
 
-                using (BinaryWriter writer = new BinaryWriter(File.Open(filePath, FileMode.Create)))
+                using (BinaryWriter writer = new BinaryWriter(File.Open(filePath, FileMode.Append)))
                 {
                     foreach (Book book in books)
                     {
@@ -105,7 +103,6 @@ namespace CPRG211Final
             }
         }
 
-
         // CheckAvailability
         public void CheckAvailability()
         {
@@ -153,6 +150,14 @@ namespace CPRG211Final
 
 
 
+
+
+
+
+
+        // FilePath for books.bin file
+        private readonly string filePath = Path.Combine(AppDomain.CurrentDomain.BaseDirectory, "books.bin");
+
         // Bin File Methods
 
         // Check File Exists
@@ -170,6 +175,8 @@ namespace CPRG211Final
         // Load Bin File
         public List<Book> LoadBookBinFile()
         {
+            CheckBooksBinExist();
+
             var books = new List<Book>();
 
             if (!File.Exists(filePath))

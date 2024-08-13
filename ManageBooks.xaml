@@ -30,7 +30,7 @@
         </Grid.RowDefinitions>
         
         <!-- TaskBar -->
-        <local:TaskbarControl Grid.Column="0" Grid.Row="0" Grid.RowSpan="20" Width="330" />
+        <local:TaskbarControl x:Name="taskbarControl" Grid.Column="0" Grid.Row="0" Grid.RowSpan="20" Width="330" />
 
         <!-- Search -->
         <StackPanel Orientation="Vertical" Grid.Row="1" Grid.Column="2" Margin="10,10,10,0">

@@ -3,52 +3,72 @@
   "WorkspaceRootPath": "C:\\Users\\devin\\OneDrive\\Desktop\\School\\Semester Two\\CPRG 211 - ObjOrnt 2.0\\Final Project\\Project\\CPRG211Final\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{4EF68723-6272-461B-84E2-9843B166CBDD}|CPRG211Final.csproj|c:\\users\\devin\\onedrive\\desktop\\school\\semester two\\cprg 211 - objornt 2.0\\final project\\project\\cprg211final\\code\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4EF68723-6272-461B-84E2-9843B166CBDD}|CPRG211Final.csproj|solutionrelative:code\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{4EF68723-6272-461B-84E2-9843B166CBDD}|CPRG211Final.csproj|c:\\users\\devin\\onedrive\\desktop\\school\\semester two\\cprg 211 - objornt 2.0\\final project\\project\\cprg211final\\code\\member.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4EF68723-6272-461B-84E2-9843B166CBDD}|CPRG211Final.csproj|solutionrelative:code\\member.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{4EF68723-6272-461B-84E2-9843B166CBDD}|CPRG211Final.csproj|c:\\users\\devin\\onedrive\\desktop\\school\\semester two\\cprg 211 - objornt 2.0\\final project\\project\\cprg211final\\managestaff.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4EF68723-6272-461B-84E2-9843B166CBDD}|CPRG211Final.csproj|solutionrelative:managestaff.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{4EF68723-6272-461B-84E2-9843B166CBDD}|CPRG211Final.csproj|c:\\users\\devin\\onedrive\\desktop\\school\\semester two\\cprg 211 - objornt 2.0\\final project\\project\\cprg211final\\code\\staff.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{4EF68723-6272-461B-84E2-9843B166CBDD}|CPRG211Final.csproj|solutionrelative:code\\staff.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{4EF68723-6272-461B-84E2-9843B166CBDD}|CPRG211Final.csproj|c:\\users\\devin\\onedrive\\desktop\\school\\semester two\\cprg 211 - objornt 2.0\\final project\\project\\cprg211final\\code\\loan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4EF68723-6272-461B-84E2-9843B166CBDD}|CPRG211Final.csproj|solutionrelative:code\\loan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{4EF68723-6272-461B-84E2-9843B166CBDD}|CPRG211Final.csproj|c:\\users\\devin\\onedrive\\desktop\\school\\semester two\\cprg 211 - objornt 2.0\\final project\\project\\cprg211final\\managebooks.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4EF68723-6272-461B-84E2-9843B166CBDD}|CPRG211Final.csproj|solutionrelative:managebooks.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{4EF68723-6272-461B-84E2-9843B166CBDD}|CPRG211Final.csproj|c:\\users\\devin\\onedrive\\desktop\\school\\semester two\\cprg 211 - objornt 2.0\\final project\\project\\cprg211final\\managebooks.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{4EF68723-6272-461B-84E2-9843B166CBDD}|CPRG211Final.csproj|solutionrelative:managebooks.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{4EF68723-6272-461B-84E2-9843B166CBDD}|CPRG211Final.csproj|c:\\users\\devin\\onedrive\\desktop\\school\\semester two\\cprg 211 - objornt 2.0\\final project\\project\\cprg211final\\managemembers.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{4EF68723-6272-461B-84E2-9843B166CBDD}|CPRG211Final.csproj|solutionrelative:managemembers.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+      "AbsoluteMoniker": "D:0:0:{4EF68723-6272-461B-84E2-9843B166CBDD}|CPRG211Final.csproj|c:\\users\\devin\\onedrive\\desktop\\school\\semester two\\cprg 211 - objornt 2.0\\final project\\project\\cprg211final\\code\\member.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4EF68723-6272-461B-84E2-9843B166CBDD}|CPRG211Final.csproj|solutionrelative:code\\member.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{4EF68723-6272-461B-84E2-9843B166CBDD}|CPRG211Final.csproj|c:\\users\\devin\\onedrive\\desktop\\school\\semester two\\cprg 211 - objornt 2.0\\final project\\project\\cprg211final\\managestaff.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
       "RelativeMoniker": "D:0:0:{4EF68723-6272-461B-84E2-9843B166CBDD}|CPRG211Final.csproj|solutionrelative:managestaff.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{4EF68723-6272-461B-84E2-9843B166CBDD}|CPRG211Final.csproj|c:\\users\\devin\\onedrive\\desktop\\school\\semester two\\cprg 211 - objornt 2.0\\final project\\project\\cprg211final\\taskbarcontrol.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4EF68723-6272-461B-84E2-9843B166CBDD}|CPRG211Final.csproj|solutionrelative:taskbarcontrol.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{4EF68723-6272-461B-84E2-9843B166CBDD}|CPRG211Final.csproj|c:\\users\\devin\\onedrive\\desktop\\school\\semester two\\cprg 211 - objornt 2.0\\final project\\project\\cprg211final\\managemembers.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{4EF68723-6272-461B-84E2-9843B166CBDD}|CPRG211Final.csproj|solutionrelative:managemembers.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{4EF68723-6272-461B-84E2-9843B166CBDD}|CPRG211Final.csproj|c:\\users\\devin\\onedrive\\desktop\\school\\semester two\\cprg 211 - objornt 2.0\\final project\\project\\cprg211final\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4EF68723-6272-461B-84E2-9843B166CBDD}|CPRG211Final.csproj|solutionrelative:mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{4EF68723-6272-461B-84E2-9843B166CBDD}|CPRG211Final.csproj|c:\\users\\devin\\onedrive\\desktop\\school\\semester two\\cprg 211 - objornt 2.0\\final project\\project\\cprg211final\\managebooks.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{4EF68723-6272-461B-84E2-9843B166CBDD}|CPRG211Final.csproj|solutionrelative:managebooks.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4EF68723-6272-461B-84E2-9843B166CBDD}|CPRG211Final.csproj|c:\\users\\devin\\onedrive\\desktop\\school\\semester two\\cprg 211 - objornt 2.0\\final project\\project\\cprg211final\\code\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4EF68723-6272-461B-84E2-9843B166CBDD}|CPRG211Final.csproj|solutionrelative:code\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4EF68723-6272-461B-84E2-9843B166CBDD}|CPRG211Final.csproj|c:\\users\\devin\\onedrive\\desktop\\school\\semester two\\cprg 211 - objornt 2.0\\final project\\project\\cprg211final\\managebooks.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4EF68723-6272-461B-84E2-9843B166CBDD}|CPRG211Final.csproj|solutionrelative:managebooks.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4EF68723-6272-461B-84E2-9843B166CBDD}|CPRG211Final.csproj|c:\\users\\devin\\onedrive\\desktop\\school\\semester two\\cprg 211 - objornt 2.0\\final project\\project\\cprg211final\\managecheckinout.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{4EF68723-6272-461B-84E2-9843B166CBDD}|CPRG211Final.csproj|solutionrelative:managecheckinout.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4EF68723-6272-461B-84E2-9843B166CBDD}|CPRG211Final.csproj|c:\\users\\devin\\onedrive\\desktop\\school\\semester two\\cprg 211 - objornt 2.0\\final project\\project\\cprg211final\\managecheckinout.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4EF68723-6272-461B-84E2-9843B166CBDD}|CPRG211Final.csproj|solutionrelative:managecheckinout.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{4EF68723-6272-461B-84E2-9843B166CBDD}|CPRG211Final.csproj|c:\\users\\devin\\onedrive\\desktop\\school\\semester two\\cprg 211 - objornt 2.0\\final project\\project\\cprg211final\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
       "RelativeMoniker": "D:0:0:{4EF68723-6272-461B-84E2-9843B166CBDD}|CPRG211Final.csproj|solutionrelative:mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{4EF68723-6272-461B-84E2-9843B166CBDD}|CPRG211Final.csproj|c:\\users\\devin\\onedrive\\desktop\\school\\semester two\\cprg 211 - objornt 2.0\\final project\\project\\cprg211final\\managecheckinout.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{4EF68723-6272-461B-84E2-9843B166CBDD}|CPRG211Final.csproj|solutionrelative:managecheckinout.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+      "AbsoluteMoniker": "D:0:0:{4EF68723-6272-461B-84E2-9843B166CBDD}|CPRG211Final.csproj|c:\\users\\devin\\onedrive\\desktop\\school\\semester two\\cprg 211 - objornt 2.0\\final project\\project\\cprg211final\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4EF68723-6272-461B-84E2-9843B166CBDD}|CPRG211Final.csproj|solutionrelative:mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4EF68723-6272-461B-84E2-9843B166CBDD}|CPRG211Final.csproj|c:\\users\\devin\\onedrive\\desktop\\school\\semester two\\cprg 211 - objornt 2.0\\final project\\project\\cprg211final\\managemembers.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4EF68723-6272-461B-84E2-9843B166CBDD}|CPRG211Final.csproj|solutionrelative:managemembers.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4EF68723-6272-461B-84E2-9843B166CBDD}|CPRG211Final.csproj|c:\\users\\devin\\onedrive\\desktop\\school\\semester two\\cprg 211 - objornt 2.0\\final project\\project\\cprg211final\\taskbarcontrol.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4EF68723-6272-461B-84E2-9843B166CBDD}|CPRG211Final.csproj|solutionrelative:taskbarcontrol.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4EF68723-6272-461B-84E2-9843B166CBDD}|CPRG211Final.csproj|c:\\users\\devin\\onedrive\\desktop\\school\\semester two\\cprg 211 - objornt 2.0\\final project\\project\\cprg211final\\taskbarcontrol.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{4EF68723-6272-461B-84E2-9843B166CBDD}|CPRG211Final.csproj|solutionrelative:taskbarcontrol.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4EF68723-6272-461B-84E2-9843B166CBDD}|CPRG211Final.csproj|c:\\users\\devin\\onedrive\\desktop\\school\\semester two\\cprg 211 - objornt 2.0\\final project\\project\\cprg211final\\assemblyinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4EF68723-6272-461B-84E2-9843B166CBDD}|CPRG211Final.csproj|solutionrelative:assemblyinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4EF68723-6272-461B-84E2-9843B166CBDD}|CPRG211Final.csproj|c:\\users\\devin\\onedrive\\desktop\\school\\semester two\\cprg 211 - objornt 2.0\\final project\\project\\cprg211final\\code\\loan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4EF68723-6272-461B-84E2-9843B166CBDD}|CPRG211Final.csproj|solutionrelative:code\\loan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{4EF68723-6272-461B-84E2-9843B166CBDD}|CPRG211Final.csproj|c:\\users\\devin\\onedrive\\desktop\\school\\semester two\\cprg 211 - objornt 2.0\\final project\\project\\cprg211final\\cprg211final.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
@@ -72,7 +92,7 @@
         },
         {
           "DockedWidth": 28,
-          "SelectedChildIndex": 10,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Bookmark",
@@ -84,51 +104,28 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "ManageCheckInOut.xaml",
-              "DocumentMoniker": "C:\\Users\\devin\\OneDrive\\Desktop\\School\\Semester Two\\CPRG 211 - ObjOrnt 2.0\\Final Project\\Project\\CPRG211Final\\ManageCheckInOut.xaml",
-              "RelativeDocumentMoniker": "ManageCheckInOut.xaml",
-              "ToolTip": "C:\\Users\\devin\\OneDrive\\Desktop\\School\\Semester Two\\CPRG 211 - ObjOrnt 2.0\\Final Project\\Project\\CPRG211Final\\ManageCheckInOut.xaml",
-              "RelativeToolTip": "ManageCheckInOut.xaml",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2024-08-13T05:20:49.138Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "ManageStaff.xaml",
-              "DocumentMoniker": "C:\\Users\\devin\\OneDrive\\Desktop\\School\\Semester Two\\CPRG 211 - ObjOrnt 2.0\\Final Project\\Project\\CPRG211Final\\ManageStaff.xaml",
-              "RelativeDocumentMoniker": "ManageStaff.xaml",
-              "ToolTip": "C:\\Users\\devin\\OneDrive\\Desktop\\School\\Semester Two\\CPRG 211 - ObjOrnt 2.0\\Final Project\\Project\\CPRG211Final\\ManageStaff.xaml",
-              "RelativeToolTip": "ManageStaff.xaml",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2024-08-13T05:20:34.259Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "ManageMembers.xaml",
-              "DocumentMoniker": "C:\\Users\\devin\\OneDrive\\Desktop\\School\\Semester Two\\CPRG 211 - ObjOrnt 2.0\\Final Project\\Project\\CPRG211Final\\ManageMembers.xaml",
-              "RelativeDocumentMoniker": "ManageMembers.xaml",
-              "ToolTip": "C:\\Users\\devin\\OneDrive\\Desktop\\School\\Semester Two\\CPRG 211 - ObjOrnt 2.0\\Final Project\\Project\\CPRG211Final\\ManageMembers.xaml",
-              "RelativeToolTip": "ManageMembers.xaml",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2024-08-13T05:20:22.604Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "ManageBooks.xaml.cs",
-              "DocumentMoniker": "C:\\Users\\devin\\OneDrive\\Desktop\\School\\Semester Two\\CPRG 211 - ObjOrnt 2.0\\Final Project\\Project\\CPRG211Final\\ManageBooks.xaml.cs",
-              "RelativeDocumentMoniker": "ManageBooks.xaml.cs",
-              "ToolTip": "C:\\Users\\devin\\OneDrive\\Desktop\\School\\Semester Two\\CPRG 211 - ObjOrnt 2.0\\Final Project\\Project\\CPRG211Final\\ManageBooks.xaml.cs",
-              "RelativeToolTip": "ManageBooks.xaml.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAGcAAAABAAAA",
+              "DocumentIndex": 0,
+              "Title": "ManageStaff.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\devin\\OneDrive\\Desktop\\School\\Semester Two\\CPRG 211 - ObjOrnt 2.0\\Final Project\\Project\\CPRG211Final\\ManageStaff.xaml.cs",
+              "RelativeDocumentMoniker": "ManageStaff.xaml.cs",
+              "ToolTip": "C:\\Users\\devin\\OneDrive\\Desktop\\School\\Semester Two\\CPRG 211 - ObjOrnt 2.0\\Final Project\\Project\\CPRG211Final\\ManageStaff.xaml.cs",
+              "RelativeToolTip": "ManageStaff.xaml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAbAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-13T04:00:03.486Z",
+              "WhenOpened": "2024-08-13T06:21:11.182Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "ManageMembers.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\devin\\OneDrive\\Desktop\\School\\Semester Two\\CPRG 211 - ObjOrnt 2.0\\Final Project\\Project\\CPRG211Final\\ManageMembers.xaml.cs",
+              "RelativeDocumentMoniker": "ManageMembers.xaml.cs",
+              "ToolTip": "C:\\Users\\devin\\OneDrive\\Desktop\\School\\Semester Two\\CPRG 211 - ObjOrnt 2.0\\Final Project\\Project\\CPRG211Final\\ManageMembers.xaml.cs",
+              "RelativeToolTip": "ManageMembers.xaml.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAADEAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-13T05:58:07.393Z",
               "EditorCaption": ""
             },
             {
@@ -145,20 +142,81 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Staff.cs",
-              "DocumentMoniker": "C:\\Users\\devin\\OneDrive\\Desktop\\School\\Semester Two\\CPRG 211 - ObjOrnt 2.0\\Final Project\\Project\\CPRG211Final\\Code\\Staff.cs",
-              "RelativeDocumentMoniker": "Code\\Staff.cs",
-              "ToolTip": "C:\\Users\\devin\\OneDrive\\Desktop\\School\\Semester Two\\CPRG 211 - ObjOrnt 2.0\\Final Project\\Project\\CPRG211Final\\Code\\Staff.cs",
-              "RelativeToolTip": "Code\\Staff.cs",
-              "ViewState": "AQIAAAsAAAAAAAAAAAAQwCsAAAAAAAAA",
+              "DocumentIndex": 9,
+              "Title": "ManageCheckInOut.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\devin\\OneDrive\\Desktop\\School\\Semester Two\\CPRG 211 - ObjOrnt 2.0\\Final Project\\Project\\CPRG211Final\\ManageCheckInOut.xaml.cs",
+              "RelativeDocumentMoniker": "ManageCheckInOut.xaml.cs",
+              "ToolTip": "C:\\Users\\devin\\OneDrive\\Desktop\\School\\Semester Two\\CPRG 211 - ObjOrnt 2.0\\Final Project\\Project\\CPRG211Final\\ManageCheckInOut.xaml.cs",
+              "RelativeToolTip": "ManageCheckInOut.xaml.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAACwAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-13T03:27:24.673Z",
+              "WhenOpened": "2024-08-13T06:18:13.957Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "AssemblyInfo.cs",
+              "DocumentMoniker": "C:\\Users\\devin\\OneDrive\\Desktop\\School\\Semester Two\\CPRG 211 - ObjOrnt 2.0\\Final Project\\Project\\CPRG211Final\\AssemblyInfo.cs",
+              "RelativeDocumentMoniker": "AssemblyInfo.cs",
+              "ToolTip": "C:\\Users\\devin\\OneDrive\\Desktop\\School\\Semester Two\\CPRG 211 - ObjOrnt 2.0\\Final Project\\Project\\CPRG211Final\\AssemblyInfo.cs",
+              "RelativeToolTip": "AssemblyInfo.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-13T06:18:12.135Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "TaskbarControl.xaml",
+              "DocumentMoniker": "C:\\Users\\devin\\OneDrive\\Desktop\\School\\Semester Two\\CPRG 211 - ObjOrnt 2.0\\Final Project\\Project\\CPRG211Final\\TaskbarControl.xaml",
+              "RelativeDocumentMoniker": "TaskbarControl.xaml",
+              "ToolTip": "C:\\Users\\devin\\OneDrive\\Desktop\\School\\Semester Two\\CPRG 211 - ObjOrnt 2.0\\Final Project\\Project\\CPRG211Final\\TaskbarControl.xaml",
+              "RelativeToolTip": "TaskbarControl.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-08-13T05:57:51.337Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ManageCheckInOut.xaml",
+              "DocumentMoniker": "C:\\Users\\devin\\OneDrive\\Desktop\\School\\Semester Two\\CPRG 211 - ObjOrnt 2.0\\Final Project\\Project\\CPRG211Final\\ManageCheckInOut.xaml",
+              "RelativeDocumentMoniker": "ManageCheckInOut.xaml",
+              "ToolTip": "C:\\Users\\devin\\OneDrive\\Desktop\\School\\Semester Two\\CPRG 211 - ObjOrnt 2.0\\Final Project\\Project\\CPRG211Final\\ManageCheckInOut.xaml",
+              "RelativeToolTip": "ManageCheckInOut.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-08-13T05:20:49.138Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
+              "Title": "ManageStaff.xaml",
+              "DocumentMoniker": "C:\\Users\\devin\\OneDrive\\Desktop\\School\\Semester Two\\CPRG 211 - ObjOrnt 2.0\\Final Project\\Project\\CPRG211Final\\ManageStaff.xaml",
+              "RelativeDocumentMoniker": "ManageStaff.xaml",
+              "ToolTip": "C:\\Users\\devin\\OneDrive\\Desktop\\School\\Semester Two\\CPRG 211 - ObjOrnt 2.0\\Final Project\\Project\\CPRG211Final\\ManageStaff.xaml",
+              "RelativeToolTip": "ManageStaff.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-08-13T05:20:34.259Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ManageMembers.xaml",
+              "DocumentMoniker": "C:\\Users\\devin\\OneDrive\\Desktop\\School\\Semester Two\\CPRG 211 - ObjOrnt 2.0\\Final Project\\Project\\CPRG211Final\\ManageMembers.xaml",
+              "RelativeDocumentMoniker": "ManageMembers.xaml",
+              "ToolTip": "C:\\Users\\devin\\OneDrive\\Desktop\\School\\Semester Two\\CPRG 211 - ObjOrnt 2.0\\Final Project\\Project\\CPRG211Final\\ManageMembers.xaml",
+              "RelativeToolTip": "ManageMembers.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-08-13T05:20:22.604Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
               "Title": "Loan.cs",
               "DocumentMoniker": "C:\\Users\\devin\\OneDrive\\Desktop\\School\\Semester Two\\CPRG 211 - ObjOrnt 2.0\\Final Project\\Project\\CPRG211Final\\Code\\Loan.cs",
               "RelativeDocumentMoniker": "Code\\Loan.cs",
@@ -171,34 +229,34 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "Member.cs",
               "DocumentMoniker": "C:\\Users\\devin\\OneDrive\\Desktop\\School\\Semester Two\\CPRG 211 - ObjOrnt 2.0\\Final Project\\Project\\CPRG211Final\\Code\\Member.cs",
               "RelativeDocumentMoniker": "Code\\Member.cs",
               "ToolTip": "C:\\Users\\devin\\OneDrive\\Desktop\\School\\Semester Two\\CPRG 211 - ObjOrnt 2.0\\Final Project\\Project\\CPRG211Final\\Code\\Member.cs",
               "RelativeToolTip": "Code\\Member.cs",
-              "ViewState": "AQIAAAMAAAAAAAAAAAAAACAAAAAbAAAA",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABYAAABLAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-08-13T03:27:05.452Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 6,
               "Title": "Book.cs",
               "DocumentMoniker": "C:\\Users\\devin\\OneDrive\\Desktop\\School\\Semester Two\\CPRG 211 - ObjOrnt 2.0\\Final Project\\Project\\CPRG211Final\\Code\\Book.cs",
               "RelativeDocumentMoniker": "Code\\Book.cs",
               "ToolTip": "C:\\Users\\devin\\OneDrive\\Desktop\\School\\Semester Two\\CPRG 211 - ObjOrnt 2.0\\Final Project\\Project\\CPRG211Final\\Code\\Book.cs",
               "RelativeToolTip": "Code\\Book.cs",
-              "ViewState": "AQIAAHMAAAAAAAAAAAAmwFcAAAA1AAAA",
+              "ViewState": "AQIAAH0AAAAAAAAAAADwv40AAAAxAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-08-13T03:26:52.137Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
-              "Title": "CPRG211Final",
+              "DocumentIndex": 17,
+              "Title": "CPRG211Final.csproj",
               "DocumentMoniker": "C:\\Users\\devin\\OneDrive\\Desktop\\School\\Semester Two\\CPRG 211 - ObjOrnt 2.0\\Final Project\\Project\\CPRG211Final\\CPRG211Final.csproj",
               "RelativeDocumentMoniker": "CPRG211Final.csproj",
               "ToolTip": "C:\\Users\\devin\\OneDrive\\Desktop\\School\\Semester Two\\CPRG 211 - ObjOrnt 2.0\\Final Project\\Project\\CPRG211Final\\CPRG211Final.csproj",
@@ -210,7 +268,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 13,
               "Title": "TaskbarControl.xaml.cs",
               "DocumentMoniker": "C:\\Users\\devin\\OneDrive\\Desktop\\School\\Semester Two\\CPRG 211 - ObjOrnt 2.0\\Final Project\\Project\\CPRG211Final\\TaskbarControl.xaml.cs",
               "RelativeDocumentMoniker": "TaskbarControl.xaml.cs",
@@ -235,15 +293,62 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 11,
               "Title": "MainWindow.xaml.cs",
               "DocumentMoniker": "C:\\Users\\devin\\OneDrive\\Desktop\\School\\Semester Two\\CPRG 211 - ObjOrnt 2.0\\Final Project\\Project\\CPRG211Final\\MainWindow.xaml.cs",
               "RelativeDocumentMoniker": "MainWindow.xaml.cs",
               "ToolTip": "C:\\Users\\devin\\OneDrive\\Desktop\\School\\Semester Two\\CPRG 211 - ObjOrnt 2.0\\Final Project\\Project\\CPRG211Final\\MainWindow.xaml.cs",
               "RelativeToolTip": "MainWindow.xaml.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAACMAAAAAAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-08-13T03:00:13.533Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "FloatingWindowState": {
+        "Id": "9429b07f-ac00-4eda-9dc3-8cd772b9b372",
+        "Display": 0,
+        "X": -118,
+        "Y": 347,
+        "Width": 1376,
+        "Height": 1083,
+        "WindowState": 0
+      },
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Staff.cs",
+              "DocumentMoniker": "C:\\Users\\devin\\OneDrive\\Desktop\\School\\Semester Two\\CPRG 211 - ObjOrnt 2.0\\Final Project\\Project\\CPRG211Final\\Code\\Staff.cs",
+              "RelativeDocumentMoniker": "Code\\Staff.cs",
+              "ToolTip": "C:\\Users\\devin\\OneDrive\\Desktop\\School\\Semester Two\\CPRG 211 - ObjOrnt 2.0\\Final Project\\Project\\CPRG211Final\\Code\\Staff.cs",
+              "RelativeToolTip": "Code\\Staff.cs",
+              "ViewState": "AQIAAE4AAAAAAAAAAAAqwG0AAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-13T03:27:24.673Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ManageBooks.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\devin\\OneDrive\\Desktop\\School\\Semester Two\\CPRG 211 - ObjOrnt 2.0\\Final Project\\Project\\CPRG211Final\\ManageBooks.xaml.cs",
+              "RelativeDocumentMoniker": "ManageBooks.xaml.cs",
+              "ToolTip": "C:\\Users\\devin\\OneDrive\\Desktop\\School\\Semester Two\\CPRG 211 - ObjOrnt 2.0\\Final Project\\Project\\CPRG211Final\\ManageBooks.xaml.cs",
+              "RelativeToolTip": "ManageBooks.xaml.cs",
+              "ViewState": "AQIAABkAAAAAAAAAAAAgwFAAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-13T04:00:03.486Z",
               "EditorCaption": ""
             }
           ]
