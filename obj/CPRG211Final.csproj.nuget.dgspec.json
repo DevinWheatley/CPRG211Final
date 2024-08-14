@@ -1,23 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\devin\\OneDrive\\Desktop\\School\\Semester Two\\CPRG 211 - ObjOrnt 2.0\\Final Project\\Project\\CPRG211Final\\CPRG211Final.csproj": {}
+    "C:\\Users\\yongi\\Source\\Repos\\CPRG211Final\\CPRG211Final.csproj": {}
   },
   "projects": {
-    "C:\\Users\\devin\\OneDrive\\Desktop\\School\\Semester Two\\CPRG 211 - ObjOrnt 2.0\\Final Project\\Project\\CPRG211Final\\CPRG211Final.csproj": {
+    "C:\\Users\\yongi\\Source\\Repos\\CPRG211Final\\CPRG211Final.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\devin\\OneDrive\\Desktop\\School\\Semester Two\\CPRG 211 - ObjOrnt 2.0\\Final Project\\Project\\CPRG211Final\\CPRG211Final.csproj",
+        "projectUniqueName": "C:\\Users\\yongi\\Source\\Repos\\CPRG211Final\\CPRG211Final.csproj",
         "projectName": "CPRG211Final",
-        "projectPath": "C:\\Users\\devin\\OneDrive\\Desktop\\School\\Semester Two\\CPRG 211 - ObjOrnt 2.0\\Final Project\\Project\\CPRG211Final\\CPRG211Final.csproj",
-        "packagesPath": "C:\\Users\\devin\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\devin\\OneDrive\\Desktop\\School\\Semester Two\\CPRG 211 - ObjOrnt 2.0\\Final Project\\Project\\CPRG211Final\\obj\\",
+        "projectPath": "C:\\Users\\yongi\\Source\\Repos\\CPRG211Final\\CPRG211Final.csproj",
+        "packagesPath": "C:\\Users\\yongi\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\yongi\\Source\\Repos\\CPRG211Final\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\devin\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\yongi\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -68,7 +68,7 @@
               "privateAssets": "none"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.302/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.204/PortableRuntimeIdentifierGraph.json"
         }
       }
     }

@@ -4,17 +4,17 @@
 winexe
 C#
 .cs
-C:\Users\devin\OneDrive\Desktop\School\Semester Two\CPRG 211 - ObjOrnt 2.0\Final Project\Project\CPRG211Final\obj\Debug\net8.0-windows\
+C:\Users\yongi\Source\Repos\CPRG211Final\obj\Debug\net8.0-windows\
 CPRG211Final
 none
 false
 TRACE;DEBUG;NET;NET8_0;NETCOREAPP
-C:\Users\devin\OneDrive\Desktop\School\Semester Two\CPRG 211 - ObjOrnt 2.0\Final Project\Project\CPRG211Final\App.xaml
+C:\Users\yongi\Source\Repos\CPRG211Final\App.xaml
 6284616609
 
 15-1928396908
-1981385397204
+198155382431
 MainWindow.xaml;ManageBooks.xaml;ManageCheckInOut.xaml;ManageMembers.xaml;ManageStaff.xaml;TaskbarControl.xaml;
 
-True
+False
 

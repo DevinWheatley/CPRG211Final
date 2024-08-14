@@ -30,3 +30,35 @@ C:\Users\devin\OneDrive\Desktop\School\Semester Two\CPRG 211 - ObjOrnt 2.0\Final
 C:\Users\devin\OneDrive\Desktop\School\Semester Two\CPRG 211 - ObjOrnt 2.0\Final Project\Project\CPRG211Final\obj\Debug\net8.0-windows\ManageMembers.baml
 C:\Users\devin\OneDrive\Desktop\School\Semester Two\CPRG 211 - ObjOrnt 2.0\Final Project\Project\CPRG211Final\obj\Debug\net8.0-windows\ManageStaff.baml
 C:\Users\devin\OneDrive\Desktop\School\Semester Two\CPRG 211 - ObjOrnt 2.0\Final Project\Project\CPRG211Final\obj\Debug\net8.0-windows\CPRG211Final.sourcelink.json
+C:\Users\yongi\Source\Repos\CPRG211Final\bin\Debug\net8.0-windows\CPRG211Final.exe
+C:\Users\yongi\Source\Repos\CPRG211Final\bin\Debug\net8.0-windows\CPRG211Final.deps.json
+C:\Users\yongi\Source\Repos\CPRG211Final\bin\Debug\net8.0-windows\CPRG211Final.runtimeconfig.json
+C:\Users\yongi\Source\Repos\CPRG211Final\bin\Debug\net8.0-windows\CPRG211Final.dll
+C:\Users\yongi\Source\Repos\CPRG211Final\bin\Debug\net8.0-windows\CPRG211Final.pdb
+C:\Users\yongi\Source\Repos\CPRG211Final\obj\Debug\net8.0-windows\MainWindow.g.cs
+C:\Users\yongi\Source\Repos\CPRG211Final\obj\Debug\net8.0-windows\ManageBooks.g.cs
+C:\Users\yongi\Source\Repos\CPRG211Final\obj\Debug\net8.0-windows\ManageCheckInOut.g.cs
+C:\Users\yongi\Source\Repos\CPRG211Final\obj\Debug\net8.0-windows\ManageMembers.g.cs
+C:\Users\yongi\Source\Repos\CPRG211Final\obj\Debug\net8.0-windows\ManageStaff.g.cs
+C:\Users\yongi\Source\Repos\CPRG211Final\obj\Debug\net8.0-windows\TaskbarControl.g.cs
+C:\Users\yongi\Source\Repos\CPRG211Final\obj\Debug\net8.0-windows\App.g.cs
+C:\Users\yongi\Source\Repos\CPRG211Final\obj\Debug\net8.0-windows\GeneratedInternalTypeHelper.g.cs
+C:\Users\yongi\Source\Repos\CPRG211Final\obj\Debug\net8.0-windows\CPRG211Final_MarkupCompile.cache
+C:\Users\yongi\Source\Repos\CPRG211Final\obj\Debug\net8.0-windows\CPRG211Final_MarkupCompile.lref
+C:\Users\yongi\Source\Repos\CPRG211Final\obj\Debug\net8.0-windows\MainWindow.baml
+C:\Users\yongi\Source\Repos\CPRG211Final\obj\Debug\net8.0-windows\ManageBooks.baml
+C:\Users\yongi\Source\Repos\CPRG211Final\obj\Debug\net8.0-windows\ManageCheckInOut.baml
+C:\Users\yongi\Source\Repos\CPRG211Final\obj\Debug\net8.0-windows\ManageMembers.baml
+C:\Users\yongi\Source\Repos\CPRG211Final\obj\Debug\net8.0-windows\ManageStaff.baml
+C:\Users\yongi\Source\Repos\CPRG211Final\obj\Debug\net8.0-windows\TaskbarControl.baml
+C:\Users\yongi\Source\Repos\CPRG211Final\obj\Debug\net8.0-windows\CPRG211Final.g.resources
+C:\Users\yongi\Source\Repos\CPRG211Final\obj\Debug\net8.0-windows\CPRG211Final.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\yongi\Source\Repos\CPRG211Final\obj\Debug\net8.0-windows\CPRG211Final.AssemblyInfoInputs.cache
+C:\Users\yongi\Source\Repos\CPRG211Final\obj\Debug\net8.0-windows\CPRG211Final.AssemblyInfo.cs
+C:\Users\yongi\Source\Repos\CPRG211Final\obj\Debug\net8.0-windows\CPRG211Final.csproj.CoreCompileInputs.cache
+C:\Users\yongi\Source\Repos\CPRG211Final\obj\Debug\net8.0-windows\CPRG211Final.sourcelink.json
+C:\Users\yongi\Source\Repos\CPRG211Final\obj\Debug\net8.0-windows\CPRG211Final.dll
+C:\Users\yongi\Source\Repos\CPRG211Final\obj\Debug\net8.0-windows\refint\CPRG211Final.dll
+C:\Users\yongi\Source\Repos\CPRG211Final\obj\Debug\net8.0-windows\CPRG211Final.pdb
+C:\Users\yongi\Source\Repos\CPRG211Final\obj\Debug\net8.0-windows\CPRG211Final.genruntimeconfig.cache
+C:\Users\yongi\Source\Repos\CPRG211Final\obj\Debug\net8.0-windows\ref\CPRG211Final.dll
